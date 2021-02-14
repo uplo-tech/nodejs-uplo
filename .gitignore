@@ -1,0 +1,9 @@
+# Generated Items
+node_modules
+npm-debug.log
+Uplo
+.test
+lib
+
+# Vim
+*.swp
